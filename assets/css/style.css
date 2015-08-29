@@ -1,3 +1,24 @@
+.padding-0{
+  padding: 0px
+}
+.padding-5{
+  padding: 5px
+}
+.padding-10{
+  padding: 10px
+}
+.padding-20{
+  padding: 20px
+}
+.padding-30{
+  padding: 30px
+}
+.padding-40{
+  padding: 40px
+}
+.padding-50{
+  padding: 50px
+}
 .p-t-0{
   padding-top: 0px
 }
@@ -81,6 +102,27 @@
 }
 .p-r-50{
   padding-right: 50px
+}
+.margin-0{
+  margin: 0px
+}
+.margin-5{
+  margin: 5px
+}
+.margin-10{
+  margin: 10px
+}
+.margin-20{
+  margin: 20px
+}
+.margin-30{
+  margin: 30px
+}
+.margin-40{
+  margin: 40px
+}
+.margin-50{
+  margin: 50px
 }
 .m-t-0{
   margin-top: 0px
